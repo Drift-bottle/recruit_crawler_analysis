@@ -1,0 +1,153 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="apify_fingerprint_datapoints" />
+          <option value="APScheduler" />
+          <option value="async-timeout" />
+          <option value="beautifulsoup4" />
+          <option value="bilibili-api-python" />
+          <option value="brotli" />
+          <option value="browser-cookie3" />
+          <option value="browsercookie" />
+          <option value="browserforge" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="chardet" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="cmdstanpy" />
+          <option value="colorama" />
+          <option value="contextvars" />
+          <option value="contourpy" />
+          <option value="crawlee" />
+          <option value="cryptography" />
+          <option value="curl_cffi" />
+          <option value="cycler" />
+          <option value="dnspython" />
+          <option value="emoji" />
+          <option value="fake-http-header" />
+          <option value="fake-useragent" />
+          <option value="filelock" />
+          <option value="fonttools" />
+          <option value="google" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="holidays" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="immutables" />
+          <option value="impit" />
+          <option value="importlib_resources" />
+          <option value="iniconfig" />
+          <option value="jaraco.classes" />
+          <option value="jaraco.context" />
+          <option value="jaraco.functools" />
+          <option value="jieba" />
+          <option value="keyring" />
+          <option value="kiwisolver" />
+          <option value="lxml" />
+          <option value="lz4" />
+          <option value="matplotlib" />
+          <option value="more-itertools" />
+          <option value="multidict" />
+          <option value="numpy" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="pandas-stubs" />
+          <option value="pillow" />
+          <option value="playwright" />
+          <option value="pluggy" />
+          <option value="propcache" />
+          <option value="Protego" />
+          <option value="protobuf" />
+          <option value="psutil" />
+          <option value="pycparser" />
+          <option value="pycryptodome" />
+          <option value="pycryptodomex" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+          <option value="pydantic_core" />
+          <option value="pyee" />
+          <option value="Pygments" />
+          <option value="PyJWT" />
+          <option value="pyparsing" />
+          <option value="pytest" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="pytz" />
+          <option value="pywin32" />
+          <option value="pywin32-ctypes" />
+          <option value="PyYAML" />
+          <option value="qrcode" />
+          <option value="qrcode-terminal" />
+          <option value="requests" />
+          <option value="requests-file" />
+          <option value="seaborn" />
+          <option value="shadowcopy" />
+          <option value="six" />
+          <option value="soupsieve" />
+          <option value="stanio" />
+          <option value="stealth-requests" />
+          <option value="tenacity" />
+          <option value="tldextract" />
+          <option value="tqdm" />
+          <option value="types-pytz" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="tzlocal" />
+          <option value="ua-generator" />
+          <option value="urllib3" />
+          <option value="WMI" />
+          <option value="yarl" />
+          <option value="wordcloud" />
+          <option value="ijson" />
+          <option value="dotenv" />
+          <option value="playwright-stealth" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStringConversionWithoutDunderMethodInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredTypes">
+        <list>
+          <option value="types.NoneType" />
+          <option value="_io.TextIOWrapper" />
+          <option value="str" />
+          <option value="int" />
+          <option value="float" />
+          <option value="complex" />
+          <option value="set" />
+          <option value="frozenset" />
+          <option value="bytes" />
+          <option value="bytearray" />
+          <option value="memoryview" />
+          <option value="slice" />
+          <option value="list" />
+          <option value="dict" />
+          <option value="bool" />
+          <option value="range" />
+          <option value="tuple" />
+          <option value="pathlib.PurePath" />
+          <option value="uuid.UUID" />
+          <option value="decimal.Decimal" />
+          <option value="fractions.Fraction" />
+          <option value="numpy.ndarray" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="types.NoneType.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
