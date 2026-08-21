@@ -168,8 +168,18 @@ flowchart LR
 ## 附录
 
 - **代码仓库**：私有仓库，具体实现细节不公开
-- **许可证**：[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)，完整的许可协议文本请参阅 [LICENSE](LICENSE) 文件
-- **技术参考**：Crawlee 官方文档、Playwright API、CloakBrowser 项目文档
+- **许可证**：
+
+  © 2026 Drift-bottle. 本仓库内的所有内容，包括但不限于分析文档、代码示例及相关图片，均作为统一的“作品”整体采用 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) 许可协议。
+
+  您可以自由地在任何媒介以任何形式复制和分享本作品，包括用于商业目的。但必须遵循以下条件：
+
+  *    **署名** — 您必须给出**适当的署名**。署名应至少包括本作品名称（media-crawler-analysis）、作者（Drift-bottle）和来源(https://github.com/Drift-bottle/media-crawler-analysis) 。您不得以任何方式暗示许可人为您或您的使用背书。
+  *    **禁止演绎** — 您不得修改、转换或者基于本作品进行再创作，并且不得分发修改后的版本。
+
+  完整的许可协议文本请参阅 [LICENSE](LICENSE) 文件。
+
+- **主要参考文档**：Crawlee 官方文档、Playwright API、CloakBrowser 项目文档
 
 
 > **说明**：本文档为系统设计分析，不包含可复用的具体代码或目标网站信息，仅供技术交流与求职展示使用
