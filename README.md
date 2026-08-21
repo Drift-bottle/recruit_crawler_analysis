@@ -174,7 +174,7 @@ flowchart LR
 
   您可以自由地在任何媒介以任何形式复制和分享本作品，包括用于商业目的。但必须遵循以下条件：
 
-  *    **署名** — 您必须给出**适当的署名**。署名应至少包括本作品名称（media-crawler-analysis）、作者（Drift-bottle）和来源(https://github.com/Drift-bottle/media-crawler-analysis) 。您不得以任何方式暗示许可人为您或您的使用背书。
+  *    **署名** — 您必须给出**适当的署名**。署名应至少包括本作品名称（recruit-crawler-analysis）、作者（Drift-bottle）和来源(https://github.com/Drift-bottle/recruit-crawler-analysis) 。您不得以任何方式暗示许可人为您或您的使用背书。
   *    **禁止演绎** — 您不得修改、转换或者基于本作品进行再创作，并且不得分发修改后的版本。
 
   完整的许可协议文本请参阅 [LICENSE](LICENSE) 文件。
